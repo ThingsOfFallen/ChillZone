@@ -1,0 +1,9 @@
+{
+    "client": {
+        "token": "",
+        "public_key": "",
+        "client_secret": "",
+        "client_id": ""
+    },
+    "preifx": ""
+}
